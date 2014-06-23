@@ -12,7 +12,9 @@ color: #333;
 background-color: #fff;
 }
 
-
+.jumbotron {
+	background: url('../img/congruent_pentagon.png');
+}
 
 
 
