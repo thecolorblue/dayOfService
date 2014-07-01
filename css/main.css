@@ -17,13 +17,9 @@ background-color: #fff;
 }
 
 
-
-
-
-
-
-
-
+.paypal-button.large.primary .paypal-button-content {
+	height: 42px;
+}
 
 
 
